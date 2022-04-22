@@ -15,3 +15,4 @@ lw-scanner configure scanner
 
 sudo yum install podman-docker
 
+
