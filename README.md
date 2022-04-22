@@ -14,3 +14,4 @@ lw-scanner configure scanner
 # Insatlling Podman-dcoker dependancy for podman conatiner runtime 
 sudo yum install podman-docker
 
+# LW_inline_scanner_podman_runtime
