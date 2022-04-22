@@ -1,4 +1,4 @@
-Lacework inline scanner with podman continer runtime configuration
+###Lacework inline scanner with podman continer runtime configuration
 
 #Download inline scnner for RHEL/CentOS - x86_64 x86_64 x86_64 GNU/Linux
 wget https://github.com/lacework/lacework-vulnerability-scanner/releases/download/v0.2.14/lw-scanner
@@ -14,3 +14,4 @@ lw-scanner configure scanner
 # Insatlling Podman-dcoker dependancy for podman conatiner runtime 
 
 sudo yum install podman-docker
+
